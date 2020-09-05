@@ -1,24 +1,4 @@
-# dev
+# APT Website
 
-## Project setup
-```
-npm install
-```
+Code for the APTgains website which will feature meal plans, instructional videos and much more.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
